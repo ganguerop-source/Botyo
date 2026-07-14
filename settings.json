@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Suresh_Gota_Lover",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Suresh_Gota_Lover",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HACKERBOYZZSMP.aternos.me",
+    "port": 24420,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Beti peat ma saru nathi lagtu",
+        "Maro deol Rajio!",
+        "Gota akle sauthi priy!"
       ]
     },
     "chat-log": true,
